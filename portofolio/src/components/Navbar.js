@@ -10,6 +10,7 @@ export default function Navbar() {
                     <li>Price</li>
                     <li>Contact</li>
                     <li>About</li>
+                    <li>Links</li>
                 </ul>
             </nav>
         </header>
