@@ -31,3 +31,7 @@ body {
 .main-content {
     color: var(--navColor);
 }
+
+.led-switch {
+    flex-flow: row;
+}
