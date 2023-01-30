@@ -1,0 +1,9 @@
+{
+  "shiba-theme-settings@@translucent-pane-style-settings": "shib-setting-default-frosted-glass",
+  "shiba-theme-settings@@shib-transparent-setting-panel": false,
+  "shiba-theme-settings@@hide-vault-title": false,
+  "shiba-theme-settings@@shib-custom-vault-folder-toggle": true,
+  "shiba-theme-settings@@shib-custom-vault-shiba-toggle": true,
+  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-background",
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-three"
+}
