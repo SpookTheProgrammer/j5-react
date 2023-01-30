@@ -6,4 +6,4 @@ npm install johnny-five
 npm install socket.io
 npm install serialport
 
-![[ezgif.com-gif-maker.gif]]
+![](https://github.com/SpookTheProgrammer/j5-react/blob/master/ezgif.com-gif-maker.gif)
