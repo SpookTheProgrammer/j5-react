@@ -2,11 +2,13 @@
 https://reactjs.org/docs/create-a-new-react-app.html
 
 # NPM INSTALLS
-npm install johnny-five
-
-npm install socket.io
-
-npm install serialport
+"dependencies": {
+    "discord.js": "^14.7.1",
+    "firmata": "^2.3.0",
+    "johnny-five": "^2.1.0",
+    "serialport": "^9.2.8",
+    "socket.io": "^4.5.4"
+}
 
 ![](https://github.com/SpookTheProgrammer/j5-react/blob/master/ezgif.com-gif-maker.gif)
 
