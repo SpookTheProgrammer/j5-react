@@ -10,6 +10,7 @@ https://reactjs.org/docs/create-a-new-react-app.html
     "socket.io": "^4.5.4"
 }
 
+<<<<<<< HEAD
 ![](https://github.com/SpookTheProgrammer/j5-react/blob/master/ezgif.com-gif-maker.gif)
 
 # How to run
@@ -23,3 +24,6 @@ To start the web-server, go to directory /frontend/ and give this command to the
 "
 npm start
 "
+=======
+![[ezgif.com-gif-maker.gif]]
+>>>>>>> 3bf2bc3 (Discord.js integrated)
