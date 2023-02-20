@@ -12,7 +12,7 @@ var discordState = false;
 
 const prefix = "!"
 const CHANNEL_ID = 1059475736852955166;
-const discordToken = 'MTA3MzU5MDA0ODQwODIyMzc3NQ.G4oCDv.8P-e-a_ubT9kGnSbx-Jra7ueH17va5KdYDuLfs';
+const discordToken = 'DISCORD_TOKEN_YES_HAHA';
 const { Client, GatewayIntentBits } = require('discord.js');
 const discordClient = new Client({
   intents: [
